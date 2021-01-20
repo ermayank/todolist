@@ -1,1 +1,2 @@
-# vanilla-todo
+# To-Do List
+## Vanila JavaScript
